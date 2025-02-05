@@ -3,7 +3,7 @@
 - 🌱 I’m currently taking CS50 by Harvard University.
 - 💞️ I’m looking to collaborate on web related projects.
 - 📫 How to reach me ? princegee408@gmail.com 
-- ⚡ Fun fact: i have a gap tooth
+- ⚡ Fun fact: i just started using github....🤷
 
 <!---
 Prince-chidi/Prince-chidi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
