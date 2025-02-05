@@ -2,7 +2,7 @@
 - 👀 I’m a fullstack web developer
 - 🌱 I’m currently taking CS50 by Harvard University.
 - 💞️ I’m looking to collaborate on web related projects.
-- 📫 How to reach me ? princegee408@gmail.com 
+- 📫 How to reach me ? prince@mail.chidiprince.com OR princegee408@gmail.com 
 - ⚡ Fun fact: i just started using github....🤷
 
 <!---
