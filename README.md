@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Prince-chidi
-- 👀 I’m a full-stack web developer and a digital solutions expert.
-- 🌱 I’m currently taking CS50 by Harvard University.
-- 💞️ I’m looking to collaborate on web-related projects.
-- 🏢 Recently interned at [HNG](https://hng.tech).
+- 👀 I’m a Software developer, a digital strategist and a CS student.
+- 💞️ I’m looking to collaborate on web-related, mobile app, tech tools, AI projects and Tech based startup.
+- 🏢 **Currently building [Edmondie](https://edmondie.com) in collaboration with [Ben Alozie](https://benalozie.org). You can support this project through seed funding.**
 - 📫 How to reach me? hello@chidiprince.com OR princegee408@gmail.com
