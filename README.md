@@ -1,5 +1,1 @@
-- 👋 Hi, I’m [Chidi Prince](https://chidiprince.com/)
-- 👀 I’m a Software developer, a digital strategist and a CS student.
-- 💞️ I’m looking to collaborate on web-related, mobile app, tech tools, AI projects and Tech based startup.
-- 🏢 **Currently building [Edmondie](https://edmondie.com) in collaboration with [Ben Alozie](https://benalozie.org). You can support this project through seed funding.**
-- 📫 How to reach me? hello@chidiprince.com OR princegee408@gmail.com
+- 👋 Hi, I’m [Chidi Prince](https://chidiprince.com/), 
